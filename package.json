@@ -1,6 +1,6 @@
 {
   "name": "@elevate-apps/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shareable prettier config for elevate-apps",
   "main": "index.json",
   "repository": {
