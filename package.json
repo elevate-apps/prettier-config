@@ -1,0 +1,20 @@
+{
+  "name": "@elevate-apps/prettier-config",
+  "version": "1.0.0",
+  "description": "Shareable prettier config for elevate-apps",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elevate-apps/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettierconfig"
+  ],
+  "author": "Alex Grover <hello@alexgrover.me> (https://alexgrover.me)",
+  "license": "ISC",
+  "homepage": "https://github.com/elevate-apps/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": ">= 2"
+  }
+}
